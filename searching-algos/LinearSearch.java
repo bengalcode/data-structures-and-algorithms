@@ -1,5 +1,3 @@
-package Searching;
-
 public class LinearSearch {
 
 	// linear searing
