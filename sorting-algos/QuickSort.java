@@ -1,5 +1,3 @@
-package Sorting;
-
 public class QuickSort {
 
 	// quick sort
